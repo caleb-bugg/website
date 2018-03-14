@@ -10,31 +10,39 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Discrete Optimization",
+    "Routing & Logistics",
+    "Algorithms",
+    "Machine Learning",
+    "Artifical Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD candidate in Industrial Engineering & Operations Research"
+  institution = "University of California, Berkeley"
+  # year = "Dec 2018"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc candidate in Artificial Intelligence"
+  institution = "University of California, Berkeley"
+  # year = "Dec 2018"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "MSc in Industrial Engineering & Operations Research"
+  institution = "University of California, Berkeley"
+  year = 2015
+
+[[education.courses]]
+  course = "Pre-master in Econometrics & Quantative Logistics"
+  institution = "Erasmus University Rotterdam"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Liberal Arts & Sciences"
+  institution = "Amsterdam University College"
+  year = 2013
+
 +++
 
-# Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+# About me
