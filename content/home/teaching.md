@@ -14,3 +14,17 @@ subtitle = ""
 weight = 60
 
 +++
+I have served an instructor or a teaching assistant for the following courses at UC Berkeley:
+
+#### Instructor
+* IEOR 162: Linear Programming & Network Flows (Spring 2017)  
+  Evaluations: 4.94/5.0
+
+#### Teaching Assistant (GSI)
+* IEOR 224: Portfolio & Risk Analytics (Spring 2018)
+* IEOR 266: Graphs & Network Flows (Fall 2014-2017)
+* IEOR 162: Linear Programming & Network Flows (Fall 2015, Spring 2016)
+
+
+#### Awards
+I was awarded UC Berkeley's Outstanding GSI Award in Spring 2016.
