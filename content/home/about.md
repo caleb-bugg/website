@@ -46,3 +46,5 @@ weight = 5
 +++
 
 # About me
+
+{{% staticref "files/cv.pdf" "newtab" %}}**Download my CV**{{% /staticref %}} (Updated March 13, 2018)
