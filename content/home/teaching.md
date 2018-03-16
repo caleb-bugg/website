@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-I have served an instructor or a teaching assistant for the following courses at UC Berkeley:
+I have served as an instructor or a teaching assistant for the following courses at UC Berkeley:
 
 #### Instructor
 * IEOR 162: Linear Programming & Network Flows (Spring 2017)  
