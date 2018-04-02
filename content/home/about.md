@@ -45,7 +45,7 @@ weight = 5
 
 +++
 # About me
-I am a fourth-year PhD student in Industrial Engineering & Operations Research at UC Berkeley. My advisor is Professor [Dorit S. Hochbaum](www.ieor.berkeley.edu/~hochbaum/). Currently, my main interest is designing algorithms for discrete decision-making, particularly in transportation. Other research interests are dynamic optimization problems and the synthesis of optimization and machine learning.
+I am a fourth-year PhD student in Industrial Engineering & Operations Research at UC Berkeley. My advisor is Professor [Dorit S. Hochbaum](http://www.ieor.berkeley.edu/~hochbaum/). Currently, my main interest is designing algorithms for discrete decision-making, particularly in transportation. Other research interests are dynamic optimization problems and the synthesis of optimization and machine learning.
 
 I have previously worked as a data scientist intern for [Uber](https://uber.com), the airline [KLM](https://klm.com), and the data analytics consultant [MIcompany](http://micompany.nl/).
 
