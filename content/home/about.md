@@ -49,4 +49,4 @@ I am a fourth-year PhD student in Industrial Engineering & Operations Research a
 
 I have previously worked as a data scientist intern for [Uber](https://uber.com), the airline [KLM](https://klm.com), and the data analytics consultant [MIcompany](http://micompany.nl/).
 
-{{% staticref "files/cv.pdf" "newtab" %}}**Download my CV**{{% /staticref %}} (Updated March 13, 2018)
+{{% staticref "files/cv.pdf" "newtab" %}}**Download my CV**{{% /staticref %}} (Updated August 24, 2018)
