@@ -45,7 +45,7 @@ weight = 5
 
 +++
 # About me
-I am a fifth-year PhD student in Industrial Engineering & Operations Research at UC Berkeley. My advisor is Professor [Dorit S. Hochbaum](http://www.ieor.berkeley.edu/~hochbaum/). I am also working on an MSc degree in Artificial Intelligence (Computer Science).
+I am a fifth-year PhD student in Industrial Engineering & Operations Research at UC Berkeley. My advisor is Professor [Dorit S. Hochbaum](http://www.ieor.berkeley.edu/~hochbaum/). I am also working towards an MSc degree in Artificial Intelligence (Computer Science).
 
 I am passionate about solving challenging decision-making problems using tools from combinatorial optimization, particularly in the field of transportation. Other interests include online/dynamic optimization problems, with uncertainty about the future, and problems on the interface of optimization and machine learning.
 
