@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://calebxb.com/"
 
 # Title of your site
 title = "Academic"
@@ -50,21 +50,19 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Caleb Xavier Bugg"
+  role = "Graduate Student in Operations Research"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "UC Berkeley", url = "http://ieor.berkeley.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "caleb_bugg@berkeley.edu"
+  address = "Etcheverry Hall, ATTN: Caleb X. Bugg, Berkeley, California, 94720, USA"
+  office_hours = "Monday 1:30 to 2:30, email for Zoom link"
+  
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
