@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Operations Research"
   institution = "The University of California, Berkeley"
-  year = expected 2023
+  year = 2023
 
 [[education.courses]]
   course = "MS in Operations Research"
@@ -35,5 +35,7 @@ weight = 5
 
 # Biography
 
-Hello, my name is Caleb Xavier Bugg and I am a PhD studentat UC Berkeley, Department of Industrial Engineeringand Operations Research.
+Hello, my name is Caleb Xavier Bugg and I am a PhD student
+at UC Berkeley, Department of Industrial Engineering
+and Operations Research.
 
