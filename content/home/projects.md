@@ -42,6 +42,6 @@ filter_default = 0
 
 +++
 
-Integer Programming Approaches to the Quadratic Knapsack Problem [link](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)
+[Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)
 
 
