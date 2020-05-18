@@ -20,6 +20,6 @@ list_format = 0
 
 +++
 
-Policy Implications for Sample Average Approximation
-[Google Drive [link](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj)].
 IEOR Visit Day Talk at UC Berkeley, March 2020 
+"Policy Implications for Sample Average Approximation"
+[link](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj).
