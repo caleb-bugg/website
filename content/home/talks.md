@@ -20,6 +20,5 @@ list_format = 0
 
 +++
 
-IEOR Visit Day Talk at UC Berkeley, March 2020 
-"Policy Implications for Sample Average Approximation"
-[link](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj).
+IEOR Visit Day [Talk](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj) at UC Berkeley, March 2020, <br>
+"Policy Implications for Sample Average Approximation".
