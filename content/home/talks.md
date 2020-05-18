@@ -20,7 +20,7 @@ list_format = 0
 
 +++
 
-IEOR Visit Day [Talk](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj) at UC Berkeley, March 2020, <br>
-"Policy Implications for Sample Average Approximation". <br> <br>
+IEOR Visit Day [Talk](https://drive.google.com/open?id=1vTm4qFRAe7ID3L6q2uj-OpyAd30IKjnj) at UC Berkeley, March 2020, \
+"Policy Implications for Sample Average Approximation".\\
 
-KPOO [interview](https://drive.google.com/file/d/1qDgy1lUmjOPlBz1A0EsSVNQP-0B3qScQ/view?usp=sharing) with DJ Marilynn. February 2020.<br>Full program on KPOO [site](http://www.vicesbyproxy.com/kpoo_play/lmtym.html). 
+KPOO [interview](https://drive.google.com/file/d/1qDgy1lUmjOPlBz1A0EsSVNQP-0B3qScQ/view?usp=sharing) with DJ Marilynn. February 2020.
