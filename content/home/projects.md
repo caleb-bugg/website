@@ -42,6 +42,9 @@ filter_default = 0
 
 +++
 
-[Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)
+[Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)\
+[An Engineering Ethics Portfolio](https://drive.google.com/file/d/18S9HbjZSqOhk2mV74-2Xo3oHuoMvALj9/view?usp=sharing)
+
+
 
 
