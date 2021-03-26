@@ -22,3 +22,4 @@ count = 5
 
 +++
 
+(Dec. 2020) C. Bugg [Introduction to Operations Research for Social Scientists](https://drive.google.com/file/d/1zdz9aK8EFQJ_gaGaFnIuCE1Lk1O7Giyh/view?usp=sharing) 
