@@ -36,4 +36,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S016763772100016Xj) March 2021
+(March 2021) C. Bugg, A. Aswani, [Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints](https://www.sciencedirect.com/science/article/abs/pii/S016763772100016Xj) 
