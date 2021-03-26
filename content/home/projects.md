@@ -42,9 +42,9 @@ filter_default = 0
 
 +++
 
-[Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)\
+C. Bugg, Zezhi Zhang [Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing), Spr 2020 at UC Berkeley\
 \
-[An Engineering Ethics Portfolio](https://drive.google.com/file/d/18S9HbjZSqOhk2mV74-2Xo3oHuoMvALj9/view?usp=sharing)\
+C. Bugg, [An Engineering Ethics Portfolio](https://drive.google.com/file/d/18S9HbjZSqOhk2mV74-2Xo3oHuoMvALj9/view?usp=sharing), Spr 2019 at UC Berkeley\
 \
 C. Bugg, [Binomial Solutions to Smale's 17th](https://www.math.tamu.edu/ugs/research/REU/results/REU_2014/CalebBuggPaper.pdf), Summer 2014 at Texas A&M University.
 
