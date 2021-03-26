@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Here are a list of the courses for which I have served as a Graduate Student Instructor (GSI). \
+##Courses Taught as Graduate Student Instructor (GSI). \
 
 Fall 2018, 2019, 2020: Industrial and Commercial Database Systems (SQL based relational database course, Prof. K. Goldberg) \
 
@@ -23,4 +23,4 @@ Spring 2020, Spring 2021: Learning and Optimization (Prof. A. Aswani). \
 
 Spring 2019: Engineering Economics (Prof. E. Friedman). \
 
-Here are two selected lectures given in the Spring 2021 installment of the Learning and Optimzation course.
+##Selected Lectures, Learning and Optimization, Spring 2021 
