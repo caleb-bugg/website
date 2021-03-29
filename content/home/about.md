@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Hello, my name is Caleb Xavier Bugg [(cv)](http://{calebxb}/CVSP2021.pdf) and I am a PhD student
+Hello, my name is Caleb Xavier Bugg [(cv)](/files/CVSP2021.pdf) and I am a PhD student
 at The University of California, Berkeley, Department of Industrial Engineering
 and Operations Research. I am a 2017 graduate of Morehouse College, where I studied and tutored mathematics, served as President of the Morehouse College Lacrosse Club Team (MCLCT), and became a member of Alpha Phi Alpha, Fraternity Inc., the Alpha Rho chapter. 
 
