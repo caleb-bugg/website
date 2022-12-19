@@ -1,5 +1,5 @@
 +++
-title = "Nonnegative Ttensor Completion via Integer Optimization"
+title = "Nonnegative Tensor Completion via Integer Optimization"
 date = 2016-12-15T12:00:22-07:00
 draft = false
 
