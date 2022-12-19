@@ -1,10 +1,10 @@
 +++
-title = "Sparse Reduced Computation: Enabling Mining of Massively-Large Data Sets"
+title = "Nonnegative Ttensor Completion via Integer Optimization"
 date = 2016-12-15T12:00:22-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Philipp Baumann", "Dorit S. Hochbaum", "Quico Spaen"]
+authors = ["Caleb X. Bugg", "Chen Chen, "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "International Conference on Pattern Recognition Applications and 
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Machine learning techniques that rely on pairwise similarities have proven to be leading algorithms for classification. Despite their good and robust performance, similarity-based techniques are rarely chosen for largescale data mining because the time required to compute all pairwise similarities grows quadratically with the size of the data set. To address this issue of scalability, we introduced a method called sparse computation, which efficiently generates a sparse similarity matrix that contains only significant similarities. Sparse computation achieves significant reductions in running time with minimal and often no loss in accuracy. However, for massively-large data sets even such a sparse similarity matrix may lead to considerable running times. In this paper, we propose an extension of sparse computation called sparse-reduced computation that not only avoids computing very low similarities but also avoids computing similarities between highly-similar or identical objects by compressing them to a single object. Our computational results show that sparse-reduced computation allows highly-accurate classification of data sets with millions of objects in seconds."
+abstract = "."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,9 +42,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/sparse-reduced-computation.pdf"
+url_pdf = "files/13003_nonnegative_tensor_completion_.pdf"
 url_preprint = ""
-url_code = "https://github.com/hochbaumGroup/sparsecomputation"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
