@@ -18,7 +18,7 @@ authors = ["Caleb X. Bugg", "Chen Chen, "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Pattern Recognition Applications and Methods"
+publication = "Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)"
 publication_short = ""
 
 # Abstract and optional shortened version.
