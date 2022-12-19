@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://quicospaen.com/"
+baseurl = "https://calebxb.com/"
 
 # Title of your site
 title = "Caleb Bugg"
@@ -50,14 +50,14 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Quico Spaen"
-  role = "PhD Student"
+  name = "Caleb Bugg"
+  role = "Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-    { name = "Industrial Engineering & Operations Research", url = "https://ieor.berkeley.edu" },
-    { name = "University of California, Berkeley", url = "https://berkeley.edu" }
+    { name = "Industrial &  Systems Engineering (ISyE)", url = "https://isye.gatech.edu" },
+    { name = "The Georgia Institute of Technology", url = "https://www.gatech.edu" }
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
