@@ -19,21 +19,21 @@ weight = 5
 [[education.courses]]
   course = "PhD in Industrial Engineering & Operations Research"
   institution = "University of California, Berkeley"
-  # year = "2022"
+  year = "2022"
 
 [[education.courses]]
   course = "MS in Operations Research"
   institution = "University of California, Berkeley"
-  # year = "2018"
+  year = "2018"
 
 
 [[education.courses]]
   course = "BS in Mathematics"
   institution = "Morehouse College"
- # year = "2017"
+  year = "2017"
 
 +++
 
-Hello, my name is Caleb Xavier Bugg and I am a Postdoctoral Fellow in The H. Miltton Stewart School of Industrial Engineering (ISyE) at The Georgia Instittute of Technology. (https://www.isye.gatech.edu)). 
+Hello, my name is Caleb Xavier Bugg and I am a Postdoctoral Fellow in The H. Miltton Stewart School of Industrial Engineering [ISYE](https://www.isye.gatech.edu) at The Georgia Instittute of Technology. 
 
 I seek to discover and implement novel interpretations of quaantitative methods which have a socialy-focused, civically-focused, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
