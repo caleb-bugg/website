@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "files/dimension-signed-graph-drawing.pdf"
+url_pdf = "files/saa_pub.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
