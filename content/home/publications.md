@@ -35,3 +35,4 @@ publication_type = "2"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = true
 +++
+(March 2021) C. Bugg, A. Aswani, [Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints](https://www.sciencedirect.com/science/article/pii/S016763772100016X) 
