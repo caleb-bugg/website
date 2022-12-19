@@ -1,5 +1,6 @@
 +++
-title = "The Dimension of Signed Graph Valid Drawings"
+title = "Logarithmic sample bounds for Sample Average Approximation with
+capacity- or budget-constraints"
 date = 2017-11-19T12:01:43-07:00
 draft = false
 
