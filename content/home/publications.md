@@ -35,5 +35,5 @@ publication_type = "2"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = true
 +++
-(March 2021) C. Bugg, A. Aswani, [Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints](files/saa_pub.pdf) 
-(March 2021) C. Bugg, A. Aswani, [Nonnegative Tensor Completion via Integer Optimization](files/saa_pub.pdf)
+(March 2021) C. Bugg, A. Aswani, [Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints](files/saa_pub.pdf) /
+(March 2021) C. Bugg, C. Chen, A. Aswani, [Nonnegative Tensor Completion via Integer Optimization](files/13003_nonnegative_tensor_completion_.pdf)
