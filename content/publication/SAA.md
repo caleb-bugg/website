@@ -23,7 +23,12 @@ publication = "Operations Research Letters"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Sample Average Approximation (SAA) is used to approximately solve stochastic optimization problems.
+In practice, SAA requires much fewer samples than predicted by existing theoretical bounds that
+ensure the SAA solution is close to optimal. Here, we derive new sample-size bounds for SAA that, for
+certain problems, are logarithmic (existing bounds are polynomial) in problem dimension. Notably,
+our new bounds provide a theoretical explanation for the success of SAA for many capacity- or
+budget-constrained optimization problems."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
