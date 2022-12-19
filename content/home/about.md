@@ -34,6 +34,6 @@ weight = 5
 
 +++
 
-Hello, my name is Caleb Xavier Bugg and I am a Postdoctoral Fellow in The H. Miltton Stewart School of Industrial Engineering ([ISYE](https://www.isye.gatech.edu)) at The Georgia Instittute of Technology. 
+Hello, my name is Caleb Xavier Bugg and I am a Postdoctoral Fellow in The H. Miltton Stewart School of Industrial Engineering ([ISyE](https://www.isye.gatech.edu)) at The Georgia Instittute of Technology. 
 
 I seek to discover and implement quantitative methods which have a social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
