@@ -4,7 +4,7 @@ date = 2017-11-19T12:01:43-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Christopher Thraves Caro", "Quico Spaen", "Mark Velednitsky"]
+authors = ["Caleb Bugg", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -15,21 +15,21 @@ authors = ["Christopher Thraves Caro", "Quico Spaen", "Mark Velednitsky"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to Discrete Computational Geometry"
+publication = "Operations Research Letters"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A signed graph is a graph with a sign assignment to their edges. Drawing a signed graph in Rk means finding an embedding of the set of nodes into Rk such that, for each node, all its positive neighbors (friends) are closer than its negative neighbors (enemies). This work addresses the problem of finding L (n), the smallest dimension k such that any graph on n nodes has a valid drawing in Rk, with respect to euclidean distance. We show that L (n)= n− 2 by demonstrating that any graph on n nodes can be embedded in Rn− 2 and that there exists a signed graph on n nodes that does not have a valid drawing in Rn− 3."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
