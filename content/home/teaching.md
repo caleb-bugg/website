@@ -18,7 +18,7 @@ I have served as a teaching assistant for the following courses at UC Berkeley:
 
 
 #### Teaching Assistant (GSI)
-* IEOR 115: Industrial and COmmercial Database Systems (Fall 2018-2020)
-* IEOR 265: Learning & Optimization (Spring 2019, 2020)
-* ENG 120: Engineering Economics (Spring 2021)
+* IEOR 115: Industrial and COmmercial Database Systems (Fall 2018-20)
+* IEOR 265: Learning & Optimization (Spring 2020, 2021)
+* ENG 120: Engineering Economics (Spring 2019)
 
