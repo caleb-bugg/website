@@ -1,7 +1,7 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/projects/`.
-widget = "rojects"
+widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
@@ -18,9 +18,10 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 4
 
 +++
+
 C. Bugg, Zezhi Zhang [Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing), Spr 2020, UC Berkeley\
 \
 C. Bugg, [Uses and Extensions of the Ramsey-Cass-Koopmans Model](https://drive.google.com/file/d/1Ogjroq81mA-kfEr9cBqIaZX_V7qiw1tL/view?usp=sharing), Spring 2018 at UC Berkeley.
