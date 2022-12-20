@@ -22,3 +22,7 @@ I have served as a teaching assistant for the following courses at UC Berkeley:
 * IEOR 265: Learning & Optimization (Spring 2020, 2021)
 * ENG 120: Engineering Economics (Spring 2019)
 
+**Selected Lectures, Learning and Optimization, Spring 2021**. 
+
+Feb. 16, 2021: [A PTAS scheme for Integer Programming](https://drive.google.com/file/d/15jOG_9cENzVrDW7H0c6T66WB2_oL8NOA/view?usp=sharing). \
+Feb. 18, 2021: [SAA with L1 Constraints](https://drive.google.com/file/d/1gA1Ciim63lkSYAk-0VVTQFenMyHxoOqu/view?usp=sharing). 
