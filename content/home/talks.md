@@ -1,3 +1,4 @@
++++
 # Recent talks widget.
 # This widget displays recent posts from `content/projects/`.
 widget = "talks"
