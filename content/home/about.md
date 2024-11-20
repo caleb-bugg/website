@@ -34,6 +34,6 @@ weight = 5
 
 +++
 
-Hello, my name is Caleb Xavier Bugg ([cv](files/cv.pdf)) and I am a Postdoctoral Fellow in The H. Milton Stewart School of Industrial and Systems Engineering at The Georgia Institute of Technology. 
+Hello, my name is Caleb Xavier Bugg ([cv](files/cv.pdf)) and I am an Operations Analyst at Reaching Our SIsters Everywhere, Inc. (ROSE) in Decatur, GA. 
 
-My research seeks to discover and implement quantitative methods which have a social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
+My work seeks to discover and implement quantitative methods which have a social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
