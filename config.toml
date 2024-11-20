@@ -51,18 +51,17 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Caleb Bugg"
-  role = "Postdoctoral Fellow"
+  role = "Operations Analyst"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-    { name = "Industrial &  Systems Engineering (ISyE)", url = "https://isye.gatech.edu" },
-    { name = "The Georgia Institute of Technology", url = "https://www.gatech.edu" }
+    { name = "Reaching Our Sisters Everywhere, Inc. (ROSE)", url = "https://breastfeedingrose.org" },
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "IMG_8552 2.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "caleb.bugg@isye.gatech.edu"
+  email = "cbugg@breastfeedingrose.org"
   office_hours = ""
   phone = ""
   skype = ""
@@ -219,7 +218,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:caleb.bugg@isyegatech.edu.edu"
+    link = "mailto:cbugg@breastfeedingrose.org"
 
   [[params.social]]
     icon = "linkedin"
