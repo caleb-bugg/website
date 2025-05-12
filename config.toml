@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
     { name = "Reaching Our Sisters Everywhere, Inc. (ROSE)", url = "https://breastfeedingrose.org" },
-    name = "Reaching Our Brothers Everywhere, Inc. (ROBE)", url = "https://robeforfamily.org" }
+    name = "Reaching Our Brothers Everywhere, Inc. (ROBE)", url = "https://robeforfamily.org" },
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
