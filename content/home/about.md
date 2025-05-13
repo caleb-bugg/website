@@ -37,3 +37,7 @@ weight = 5
 Hello, my name is Caleb Xavier Bugg ([cv](files/cv.pdf)) and I am an Operations Analyst at Reaching Our Sisters Everywhere, Inc. [(ROSE)](https://www.breastfeedingrose.org) and Reaching Our Brothers Everywhere [(ROBE)](https://www.robeforfamily.org) in Decatur, GA. 
 
 My work seeks to discover and implement quantitative methods which have a social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
+
+# Summer 2025 High School Math Institute
+
+I will be conducting a summer mathematics institute for (rising) 8-12th grade students. See ([here](files/smi.pdf)) for more information.
