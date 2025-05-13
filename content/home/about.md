@@ -40,4 +40,4 @@ My work seeks to discover and implement quantitative methods which have a social
 
 # Summer 2025 High School Math Institute
 
-I will be conducting a summer mathematics institute for (rising) 8-12th grade students. See ([here](files/smi.pdf)) for more information.
+I will be conducting a summer mathematics institute for (rising) 8-12th grade students. See [here](files/smi.pdf) for more information.
