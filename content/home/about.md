@@ -38,6 +38,6 @@ Hello, my name is Caleb Xavier Bugg ([cv](files/cv.pdf)) and I am an Operations 
 
 My work seeks to discover and implement quantitative methods which have a social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
 
-# Summer 2025 High School Math Institute
+# Fall 2025 SAT Math Institute
 
-I will be conducting a summer mathematics institute for (rising) 8-12th grade students. See [here](files/smi.pdf) for more information.
+The 2025 high school summer mathematics institute has ended. I will be conducting a fall 2025 mathematics institute for 11-12th grade students ***preparing for the SAT***. See [here](files/[smi.pdf](https://satsuite.collegeboard.org/sat/registration?ef_id=Cj0KCQjwqebEBhD9ARIsAFZMbfwyrvpOyvEiiVI2QrwZkDY33kmVGb7NiRQIqI0tgDbFp1nzTsPxpcMaAse9EALw_wcB:G:s&s_kwcid=AL!4330!3!691012900312!b!!g!!sat%20test!20924380957!167502956788&gad_source=1&gad_campaignid=20924380957&gbraid=0AAAAAD-Skkz4y8tPNYxqVs0sbJko12gPo&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfwyrvpOyvEiiVI2QrwZkDY33kmVGb7NiRQIqI0tgDbFp1nzTsPxpcMaAse9EALw_wcB)) for more information on fall testing dates.
