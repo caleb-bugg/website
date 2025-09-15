@@ -40,4 +40,4 @@ My work seeks to discover and implement quantitative methods which have a social
 
 # Fall 2025 SAT Math Institute
 
-The 2025 high school summer mathematics institute has ended. I will be conducting a fall 2025 mathematics institute for 11-12th grade students ***preparing for the SAT***. See [here](https://satsuite.collegeboard.org/sat/dates-deadlines) for information on fall testing dates.
+I will be conducting a fall 2025 SAT mathematics institute for 11-12th grade students ***preparing for the SAT***. See [here](files/J1.pdf) for information on the institute. See [here](https://satsuite.collegeboard.org/sat/dates-deadlines) for information on fall SAT testing dates.
