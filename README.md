@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
+The following two (2) methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
 
 ### Quick install using your web browser
 
