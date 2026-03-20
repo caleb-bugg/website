@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2026-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -34,7 +34,7 @@ weight = 5
 
 +++
 
-Hello, my name is Caleb Xavier Bugg ([cv](static/files/cv.pdf)) and I am an Operations Analyst at Reaching Our Sisters Everywhere, Inc. [(ROSE)](https://www.breastfeedingrose.org) and Reaching Our Brothers Everywhere [(ROBE)](https://www.robeforfamily.org) in Decatur, GA. 
+Hello, my name is Caleb Xavier Bugg ([cv](files/cv.pdf)) and I am an Operations Analyst at Reaching Our Sisters Everywhere, Inc. [(ROSE)](https://www.breastfeedingrose.org) and Reaching Our Brothers Everywhere [(ROBE)](https://www.robeforfamily.org) in Decatur, GA. 
 
 My work seeks to discover and implement quantitative methods which have social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
 
