@@ -53,7 +53,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Caleb Bugg"
+  author = "Caleb Bugg"
   role = "Operations Analyst"
 
   # Organizations/Affiliations.
