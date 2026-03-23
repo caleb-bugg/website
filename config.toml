@@ -4,9 +4,9 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #baseurl = "https://calebxb.com/"
-baseURL = "/"
+
+baseURL = "https://calebxb.com/"
 relativeURLs = true
-canonifyURLs = false
 
 # Title of your site
 title = "Caleb Bugg"
