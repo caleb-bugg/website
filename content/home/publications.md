@@ -1,16 +1,8 @@
 +++
-author = "Caleb Bugg"
-# Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
+title = "Publications"
+weight = 6
 widget = "publications"
 active = true
-date = 2026-04-20
-
-title = "Publications"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 20
 
 # Number of publications to list.
 count = 10

@@ -1,17 +1,21 @@
 +++
-author = "Caleb Bugg"
-# Contact widget.
+title = "Contact"
+weight = 10
 widget = "contact"
 active = true
-date = "2016-04-20T00:00:00"
-
-title = "Contact"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 70
-
-# Automatically link email and phone?
-autolink = true
-
 +++
+
+<div class="max-w-xl mx-auto mt-12 prose dark:prose-invert text-center">
+
+### Get in Touch
+
+**ROSE & ROBE email:**  
+[cbugg@breastfeedingrose.org](mailto:cbugg@breastfeedingrose.org)
+
+**Georgia State University email:**  
+[cbugg@gsu.edu](mailto:cbugg@gsu.edu)
+
+**LinkedIn:**  
+[Caleb Xavier Bugg](https://www.linkedin.com/in/caleb-xavier-bugg-4a703161/)  
+
+</div>

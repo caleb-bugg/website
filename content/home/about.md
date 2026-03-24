@@ -1,13 +1,13 @@
 +++
 title = "About Me"
-author = "Caleb Bugg"
-date = "2026-04-20"
 weight = 5
+widget = "about"
+active = true
 +++
 
 <div class="text-center mt-12">
 
-  {{< figure src="images/author.jpg" class="m-auto rounded-full w-32 h-32 object-cover" >}}
+  {{< figure src="/images/author.jpg" class="m-auto rounded-full w-32 h-32 object-cover" >}}
 
   <h1 class="text-3xl font-bold mt-4">Caleb Bugg</h1>
 
@@ -48,4 +48,4 @@ Hello! My work seeks to discover and implement quantitative methods with social,
 
 ### Spring 2026 SAT Math Institute
 
-I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2025–2026. See [here](files/J1.pdf) for details.
+I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2025–2026. See [here](/files/J1.pdf) for details.

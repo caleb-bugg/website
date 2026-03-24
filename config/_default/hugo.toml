@@ -5,11 +5,12 @@ baseURL = "http://localhost:1313/"
 theme = "congo"
 defaultContentLanguage = "en"
 
-enableRobotsTXT = true
-summaryLength = 0
+# Site title (top-left menu / logo)
+title = "Caleb Bugg"
 
+# Optional: override top-left menu text (if you want it to say "Home")
 [params]
-
+logo = "Home"
 # Default author info for pages that don't specify one
   defaultAuthor = "Caleb Bugg"
   defaultAuthorBio = "Caleb is a researcher focused on stochastic optimization, large-scale models, and policy recommendations."
