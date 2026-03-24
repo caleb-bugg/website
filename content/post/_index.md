@@ -1,4 +1,5 @@
 +++
+author = "Caleb Bugg"
 title = "Posts"
 date = 2017-01-01
 math = false

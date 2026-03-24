@@ -1,4 +1,5 @@
 +++
+author = "Caleb Bugg"
 # Contact widget.
 widget = "contact"
 active = true

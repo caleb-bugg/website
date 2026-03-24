@@ -1,4 +1,5 @@
 +++
+author = "Caleb Bugg"
 # Recent Posts widget.
 # This widget displays recent posts from `content/projects/`.
 widget = "projects"
