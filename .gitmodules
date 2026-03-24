@@ -1,6 +1,3 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/quic0/hugo-academic 
-[submodule "themes/congo"]
-	path = themes/congo
-	url = https://github.com/jpanther/congo.git
