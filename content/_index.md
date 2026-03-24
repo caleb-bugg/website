@@ -20,6 +20,15 @@ description: "Researcher in stochastic optimization, large-scale models, and pol
 
 ---
 
+## 👤 About
+
+Learn more about my background and work:
+
+- [About Me](/home/about/) 
+- [Contact](/home/contact/)
+
+---
+
 ## 🔬 Research
 
 Explore my research areas, publications, and current projects:
@@ -35,12 +44,3 @@ Explore my research areas, publications, and current projects:
 I’m committed to making complex mathematical ideas accessible and applicable:
 
 - [Teaching](/home/teaching/)
-
----
-
-## 👤 About
-
-Learn more about my background and work:
-
-- [About Me](/home/about/) 
-- [Contact](/home/contact/)
