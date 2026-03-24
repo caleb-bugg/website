@@ -1,33 +1,46 @@
-author = "Caleb Bugg"
-authorBio = "Researcher in stochastic optimization, large-scale models, and policy recommendations."
-authorImage = "images/author.jpg"
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
-author: Caleb Bugg
+title: "Caleb Bugg"
+description: "Researcher in stochastic optimization, large-scale models, and policy recommendations."
 ---
 
-{{< lead >}}
-A powerful, lightweight theme for Hugo built with Tailwind CSS.
-{{< /lead >}}
+<div class="text-center mt-12">
 
-This is a demo site built entirely using Congo. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Congo is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+  {{< figure src="images/author.jpg" class="m-auto rounded-full w-24 h-24 object-cover" >}}
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center pe-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">page</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
+  <h1 class="text-4xl font-bold mt-6">Caleb Bugg</h1>
+  <p class="text-xl mt-2 text-gray-700 dark:text-gray-300">
+    Researcher in stochastic optimization, large-scale models, and policy recommendations.
+  </p>
+
+  {{< lead >}}
+  Welcome. My work focuses on the intersection of mathematics, computation, and real-world systems—especially where uncertainty, scale, and decision-making meet.
+  {{< /lead >}}
+
 </div>
 
-{{< figure src="festivities.svg" class="m-auto mt-6 max-w-prose" >}}
+---
 
-Explore the [sample pages]({{< ref "samples" >}}) to get a feel for what Congo can do. If you like what you see, check out the project on [Github](https://github.com/jpanther/congo) or read the [Installation guide]({{< ref "docs/installation" >}}) to get started.
+## 🔬 Research
+
+Explore my research areas, publications, and current projects:
+
+- [Projects](/home/projects/)
+- [Publications](/home/publications/)
+- [Talks](/home/talks/)
+
+---
+
+## 🎓 Teaching
+
+I’m committed to making complex mathematical ideas accessible and applicable:
+
+- [Teaching](/home/teaching/)
+
+---
+
+## 👤 About
+
+Learn more about my background and work:
+
+- [About Me](/home/about/) 
+- [Contact](/home/contact/)

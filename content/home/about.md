@@ -1,44 +1,51 @@
 +++
+title = "About Me"
 author = "Caleb Bugg"
-# About/Biography widget.
-widget = "about"
-active = true
-date = "2026-04-20T00:00:00"
-
-# Order that this section will appear in.
+date = "2026-04-20"
 weight = 5
-
-# List your academic interests.
-[interests]
-  interests = [
-    "Stochastic Optimization",
-    "Large-Scale Models",
-    "Policy Recommendations",
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Industrial Engineering & Operations Research"
-  institution = "University of California, Berkeley"
-  year = "2022"
-
-[[education.courses]]
-  course = "MS in Operations Research"
-  institution = "University of California, Berkeley"
-  year = "2018"
-
-
-[[education.courses]]
-  course = "BS in Mathematics"
-  institution = "Morehouse College"
-  year = "2017"
-
 +++
 
-Hello, my name is Caleb Xavier Bugg ([cv](files/cv_2026.pdf)) and I am an Operations Analyst at Reaching Our Sisters Everywhere, Inc. [(ROSE)](https://www.breastfeedingrose.org) and Reaching Our Brothers Everywhere [(ROBE)](https://www.robeforfamily.org) in Decatur, GA. 
+<div class="text-center mt-12">
 
-My work seeks to discover and implement quantitative methods which have social-, civic-, and/or government-based applicatons. I hope to prescribe simple solutions that we as a global community can implement. Utilizing the math and statistical models native to Operations Research and Management, I synthesize topics that provide an analytical basis for our society to invest in long-term, social good projects. 
+  {{< figure src="images/author.jpg" class="m-auto rounded-full w-32 h-32 object-cover" >}}
 
-# Spring 2026 SAT Math Institute
+  <h1 class="text-3xl font-bold mt-4">Caleb Bugg</h1>
 
-I will be conducting an SAT mathematics institute for 11-12th grade students ***preparing to take the SAT*** during the Acadmic Year (AY) 2025-2026. See [here](files/J1.pdf) for information on the institute. See [here](https://satsuite.collegeboard.org/sat/dates-deadlines) for information on AY '25-'26 SAT testing dates.
+  <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
+    Operations Analyst at <a href="https://www.breastfeedingrose.org" target="_blank">ROSE</a>.<br>
+    Researcher in stochastic optimization, large-scale models, and policy recommendations.
+  </p>
+
+  <a href="/files/cv_2026.pdf" class="inline-block mt-4 px-6 py-2 bg-primary-600 text-white rounded hover:bg-primary-500">
+    Download CV
+  </a>
+
+</div>
+
+---
+
+### About Me
+
+Hello! My work seeks to discover and implement quantitative methods with social, civic, and government applications. I aim to prescribe simple, actionable solutions at scale.
+
+---
+
+### Interests
+
+- Stochastic Optimization  
+- Large-Scale Models  
+- Policy Recommendations  
+
+---
+
+### Education
+
+- **PhD** in Industrial Engineering & Operations Research, UC Berkeley, 2022  
+- **MS** in Operations Research, UC Berkeley, 2018  
+- **BS** in Mathematics, Morehouse College, 2017  
+
+---
+
+### Spring 2026 SAT Math Institute
+
+I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2025–2026. See [here](files/J1.pdf) for details.
