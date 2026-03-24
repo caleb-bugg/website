@@ -12,9 +12,9 @@ description: "Researcher in stochastic optimization, large-scale models, and pol
     Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
-  {{< lead >}}
+ 
   Welcome. My work focuses on the intersection of mathematics, computation, and real-world systems—especially where uncertainty, scale, and decision-making meet.
-  {{< /lead >}}
+  
 
 </div>
 
