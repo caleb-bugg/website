@@ -1,37 +1,44 @@
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/getting-started/
+# https://jpanther.github.io/congo/docs/getting-started
+
 baseURL = "https://calebxb.com/"
 theme = "congo"
+themesDir = "themes"
 defaultContentLanguage = "en"
 
-# Site title (top-left menu / logo)
 title = "Caleb Bugg"
 
-# Optional: override top-left menu text (if you want it to say "Home")
-[params]
-logo = "Home"
-# Default author info for pages that don't specify one
-  defaultAuthor = "Caleb Bugg"
-  defaultAuthorBio = "Caleb is a researcher focused on stochastic optimization, large-scale models, and policy recommendations."
-  defaultAuthorImage = "images/author.jpg" # relative to your 'assets' or 'static' folder
-
-# Article display settings
-[params.article]
-  showAuthor = true
-  showBreadcrumbs = true
-  showDate = true
-  showDateUpdated = false
-  showWordCount = false
-  showReadingTime = true
-  showEdit = false
-  showTableOfContents = false
+[author]
+  name = "Caleb Bugg"
 
 [pagination]
   pagerSize = 15
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["html", "rss", "json"]
+  page = ["html"]
+  section = ["html", "rss"]
+  taxonomy = ["html", "rss"]
+  term = ["html", "rss"]
+
+[params.author]
+  name = "Caleb Bugg"
+  bio = "Caleb is a researcher focused on stochastic optimization, large-scale models, and policy recommendations."
+  image = "images/author.jpg"
+
+  [params.header]
+    logo = "Home"
+
+  [params.homepage]
+    layout = "profile"
+    showRecent = true
+
+[params.article]
+  showAuthor = true
+  showBreadcrumbs = true
+  showDate = false
+  showReadingTime = true
 
 [privacy]
   [privacy.vimeo]
