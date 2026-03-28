@@ -32,7 +32,7 @@ title = "Caleb Bugg"
 
   [params.homepage]
     layout = "profile"
-    showRecent = false
+    showRecent = true
 
 [params.article]
   showAuthor = true
