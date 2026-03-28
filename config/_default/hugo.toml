@@ -31,8 +31,8 @@ title = "Caleb Bugg"
     logo = "Home"
 
   [params.homepage]
-    layout = "custom"
-    showRecent = true
+    layout = "profile"
+    showRecent = false
 
 [params.article]
   showAuthor = true
