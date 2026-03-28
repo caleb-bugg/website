@@ -1,7 +1,7 @@
 ---
 title: "Caleb Bugg"
 description: "Researcher in stochastic optimization, large-scale models, and policy recommendations."
-layout: "profile"
+layout: "page"
 ---
 
 <div class="text-center mt-12">
