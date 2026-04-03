@@ -4,7 +4,7 @@ author = "Caleb Bugg"
 # This widget displays recent posts from `content/projects/`.
 widget = "talks"
 active = true
-date = "2016-04-20T00:00:00"
+showDate = false
 
 title = "Talks"
 subtitle = ""
