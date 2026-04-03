@@ -39,7 +39,7 @@ title = "Caleb Bugg"
 [params.article]
   showAuthor = true
   showBreadcrumbs = true
-  showDate = truw
+  showDate = true
   showReadingTime = true
 
 [privacy]
