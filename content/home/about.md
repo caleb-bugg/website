@@ -2,7 +2,7 @@
 title = "About Me"
 weight = 5
 widget = "about"
-showMeta = false
+showDate = false
 active = true
 +++
 
