@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started
 
 #baseURL = "https://joshua-group-llc-llp.netlify.app/"
-baseURL = "https://calebxb.com/"
+baseURL = "https://www.calebxb.com/"
 themesDir = "themes"
 theme = "congo"
 defaultContentLanguage = "en"
