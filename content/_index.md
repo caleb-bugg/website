@@ -15,6 +15,10 @@ layout: "page"
  
   Welcome. My work focuses on the intersection of mathematics, computation, and real-world systems—especially where uncertainty, scale, and decision-making meet.
   
+<a href="/files/cv_2026.pdf" 
+   class="inline-block mt-4 px-6 py-2 border border-primary-600 text-primary-600 rounded hover:bg-primary-600 hover:text-white">
+  Download CV
+</a>
 
 </div>
 
