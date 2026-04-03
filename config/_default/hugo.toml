@@ -51,3 +51,6 @@ title = "Caleb Bugg"
 [services]
   [services.x]
     disableInlineCSS = true
+
+relativeURLs = true
+canonifyURLs = false
