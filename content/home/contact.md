@@ -2,6 +2,7 @@
 title = "Contact"
 weight = 10
 widget = "contact"
+showDate = false
 active = true
 +++
 
