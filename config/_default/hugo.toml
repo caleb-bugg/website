@@ -3,8 +3,8 @@
 # https://jpanther.github.io/congo/docs/getting-started
 
 baseURL = "https://calebxb.com/"
-theme = "academic"
-#themesDir = "themes"
+themesDir = "themes"
+theme = "congo"
 defaultContentLanguage = "en"
 
 title = "Caleb Bugg"
