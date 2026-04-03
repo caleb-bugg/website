@@ -16,9 +16,10 @@ active = true
     Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
-  <a href="/files/cv_2026.pdf" class="inline-block mt-4 px-6 py-2 bg-primary-600 text-white rounded hover:bg-primary-500">
-    Download CV
-  </a>
+ <a href="/files/cv_2026.pdf" 
+   class="inline-block mt-4 px-6 py-2 bg-primary-600 !text-white rounded hover:bg-primary-500">
+  Download CV
+</a>
 
 </div>
 
