@@ -2,6 +2,7 @@
 title = "Publications"
 weight = 6
 widget = "publications"
+showDate = false
 active = true
 
 # Number of publications to list.
