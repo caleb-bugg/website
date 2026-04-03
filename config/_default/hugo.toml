@@ -4,7 +4,7 @@
 
 baseURL = "https://calebxb.com/"
 theme = "congo"
-themesDir = "themes"
+#themesDir = "themes"
 defaultContentLanguage = "en"
 
 title = "Caleb Bugg"
