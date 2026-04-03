@@ -13,6 +13,9 @@ title = "Caleb Bugg"
 [author]
   name = "Caleb Bugg"
 
+[params]
+  showDate = false
+
 [pagination]
   pagerSize = 15
 
@@ -38,7 +41,7 @@ title = "Caleb Bugg"
 [params.article]
   showAuthor = true
   showBreadcrumbs = true
-  showDate = false
+  #showDate = false
   showReadingTime = true
 
 [privacy]
