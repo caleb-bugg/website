@@ -30,7 +30,8 @@ title = "Caleb Bugg"
   image = "images/author.jpg"
 
   [params.header]
-    logo = "Home"
+    #logo = "Home"
+    logo = "static/joshua.jpeg"
 
   [params.homepage]
     layout = "page"
