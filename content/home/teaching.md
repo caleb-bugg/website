@@ -15,7 +15,7 @@ subtitle = ""
 weight = 60
 
 +++
-I currently serve as a Part-time Instructor of Mathematics at Georgia State University, Decatur Campus. \
+I currently serve as a Part-time Instructor of Mathematics at Georgia State University. 
 
 I have served as a teaching assistant for the following courses at UC Berkeley:
 
