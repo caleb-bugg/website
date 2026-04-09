@@ -20,10 +20,10 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/joshua.jpeg"
-  logoDark = "img/joshua.jpeg"
+  logo = "img/joshua_circle.svg"
+  logoDark = "img/joshua_circle.svg"
   # logoDark = "img/logo-dark.jpg"
-  showTitle = true
+  showTitle = false
 
 [footer]
   showCopyright = true
