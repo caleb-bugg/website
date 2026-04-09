@@ -23,7 +23,7 @@ fingerprintAlgorithm = "sha256"
   logo = "img/joshua_circle.png"
   logoDark = "img/joshua_circle.png"
   # logoDark = "img/logo-dark.jpg"
-  showTitle = true
+  showTitle = false
 
 [footer]
   showCopyright = true
