@@ -33,4 +33,6 @@ exclude_selected = true
 
 - **2021** — G. W. Bugg, G. W. Bugg & C. X. Bugg, *Breastfeeding communities for fatherhood: Laying the groundwork for the Black fatherhood, brotherhood, and manhood movement*, *Breastfeeding Medicine*, 16(2):121–123. https://doi.org/10.1089/bfm.2020.0315.
 
+"""
 - **2022** — C. X. Bugg, C. Chen & A. Aswani, *Nonnegative Tensor Completion via Integer Optimization*, in *Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*. [https://proceedings.neurips.cc/paper/2022/hash/40cf260d0c2df13e4286cc0fc0972618‑Abstract‑Conference.html](https://proceedings.neurips.cc/paper/2022/hash/40cf260d0c2df13e4286cc0fc0972618-Abstract-Conference.html)
+"""
