@@ -20,8 +20,8 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "/images/joshua.jpeg"
-  logoDark = "/images/joshua.jpeg"
+  logo = "img/joshua.jpeg"
+  logoDark = "img/joshua.jpeg"
   # logoDark = "img/logo-dark.jpg"
   showTitle = true
 
