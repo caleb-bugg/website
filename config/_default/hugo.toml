@@ -38,7 +38,7 @@ title = "Caleb x JOSHUA"
     showRecent = true
 
 [params.article]
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = true
   showDate = true
   showReadingTime = true
