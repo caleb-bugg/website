@@ -8,7 +8,7 @@ active = true
 
 <div class="text-center mt-12">
 
-  {{< figure src="/images/author.jpg" class="m-auto rounded-full w-32 h-32 object-cover" >}}
+  {{< figure src="/images/author.jpg" class="m-auto rounded-full w-40 h-40 object-cover" >}}
 
   <h1 class="text-3xl font-bold mt-4">Caleb Bugg</h1>
 
