@@ -5,7 +5,7 @@ layout: "page"
 ---
 <div class="text-center mt-12">
 
-  {{< figure src="images/author.jpg" class="m-auto rounded-full w-28 h-28 object-cover" >}}
+  {{< figure src="images/author.jpg" class="m-auto rounded-full w-24 h-24 object-cover" >}}
 
   <h1 class="text-4xl font-bold mt-6">Caleb Bugg</h1>
   <p class="text-xl mt-2 text-gray-700 dark:text-gray-300">
