@@ -23,10 +23,10 @@ count = 4
 
 +++
 
-C. Bugg, Zezhi Zhang,  [Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing), Spr 2020, UC Berkeley.
+- **2020** — C. X. Bugg, Z.Zheng: [Integer Programming Approaches to the Quadratic Knapsack Problem](https://drive.google.com/file/d/1iVIAVDxlIGZ5DPmxNyTPC_od9EaOiH8n/view?usp=sharing)
 
-C. Bugg, Pelagie Elimbi Moudio, [Uses and Extensions of the Ramsey-Cass-Koopmans Model](https://drive.google.com/file/d/1Ogjroq81mA-kfEr9cBqIaZX_V7qiw1tL/view?usp=sharing), Spring 2018, UC Berkeley.
+- **2019** — C. Bugg & P. E. Moudio: [Uses and Extensions of the Ramsey-Cass-Koopmans Model](https://drive.google.com/file/d/1Ogjroq81mA-kfEr9cBqIaZX_V7qiw1tL/view?usp=sharing)
 
-C. Bugg, [An Engineering Ethics Portfolio](https://drive.google.com/file/d/18S9HbjZSqOhk2mV74-2Xo3oHuoMvALj9/view?usp=sharing), Spring 2019, UC Berkeley.
+- **2018** — C. Bugg: [An Engineering Ethics Portfolio](https://drive.google.com/file/d/18S9HbjZSqOhk2mV74-2Xo3oHuoMvALj9/view?usp=sharing)
 
 
