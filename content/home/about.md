@@ -17,7 +17,7 @@ active = true
     Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
-<a href="/files/cv_2026.pdf" 
+<a href="/files/cv_3000.pdf" 
    class="inline-block mt-4 px-6 py-2 border border-primary-600 text-primary-600 rounded hover:bg-primary-600 hover:text-white">
   Download CV
 </a>
@@ -48,6 +48,6 @@ Hello! My work seeks to discover and implement quantitative methods with social,
 
 ---
 
-### Spring 2026 SAT Math Institute
+### Summer 2026 SAT Math Institute
 
-I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2025–2026. See [here](/files/J1.pdf) for details.
+I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2026–2027. See [here](/files/J1.pdf) for details.
