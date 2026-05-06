@@ -10,13 +10,7 @@ active = true
 
 ### Get in Touch
 
-**ROSE & ROBE email:**  
-[cbugg@breastfeedingrose.org](mailto:cbugg@breastfeedingrose.org)
-
-**Georgia State University email:**  
+**University email:**  
 [cbugg@gsu.edu](mailto:cbugg@gsu.edu)
-
-**LinkedIn:**  
-[Caleb Xavier Bugg](https://www.linkedin.com/in/caleb-xavier-bugg-4a703161/)  
 
 </div>
