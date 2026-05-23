@@ -19,7 +19,6 @@ active = true
 
   <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
     Part-Time Instructor at <a href="https://perimeter.gsu.edu/pathway/mathematics-as/" target="_blank">Georgia State University, Perimeter College</a>.<br>
-    Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
 <a href="/files/cv_3000.pdf" 
