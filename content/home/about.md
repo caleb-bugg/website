@@ -13,7 +13,12 @@ active = true
   <h1 class="text-3xl font-bold mt-4">Caleb Bugg</h1>
 
   <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
-    Operations Analyst at <a href="https://www.breastfeedingrose.org" target="_blank">ROSE</a>.<br>
+    Development Director at <a href="https://www.robeforfamily.org" target="_blank">ROBE</a>.<br>
+    Researcher in stochastic optimization, large-scale models, and policy recommendations.
+  </p>
+
+  <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
+    Part-Time Instructor at <a href="https://perimeter.gsu.edu/pathway/mathematics-as/" target="_blank">Georgia State University, Perimeter College</a>.<br>
     Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
