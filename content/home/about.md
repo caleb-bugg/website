@@ -14,7 +14,6 @@ active = true
 
   <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
     Development Director at <a href="https://www.robeforfamily.org" target="_blank">ROBE</a>.<br>
-    Researcher in stochastic optimization, large-scale models, and policy recommendations.
   </p>
 
   <p class="text-lg mt-2 text-gray-700 dark:text-gray-300">
