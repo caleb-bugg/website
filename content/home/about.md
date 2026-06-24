@@ -53,4 +53,4 @@ Hello! My work seeks to discover and implement quantitative methods with social,
 
 ### Summer 2026 SAT Math Institute
 
-I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2026–2027. See [here](/files/J1.pdf) for details.
+I will be conducting an SAT mathematics institute for 11–12th grade students ***preparing to take the SAT*** during the Academic Year (AY) 2026–2027. See [here](/files/J1.pdf) for details on the institute. See [here](https://satsuite.collegeboard.org/sat/dates-deadlines) for details on SAT test dates and timelines.
