@@ -30,7 +30,7 @@ publication_type = "2"
 exclude_selected = true
 +++
 - **2022** — C. X. Bugg, *Stochastic Optimization: Complexity-Based Analysis and Development Engineering Applications*, submitted as a *Doctoral Thesis*. [ProQuest Open Access](https://www.proquest.com/openview/04e3c2475159f7a605d4933aa8f74817/1?pq-origsite=gscholar&cbl=18750&diss=y)
-- 
+
 - **2022** — C. X. Bugg, C. Chen & A. Aswani, *Nonnegative Tensor Completion via Integer Optimization*, in *Advances in Neural Information Processing Systems 35 (NeurIPS 2022)*. [2022 NeurIPS proceedings.](https://proceedings.neurips.cc/paper_files/paper/2022/hash/40cf260d0c2df13e4286cc0fc0972618-Abstract-Conference.html) 
 
 - **2021** — C. Bugg & A. Aswani, *Logarithmic sample bounds for Sample Average Approximation with capacity- or budget-constraints*, *Operations Research Letters*, 49(2):231–238. [https://doi.org/10.1016/j.orl.2021.01.007](https://doi.org/10.1016/j.orl.2021.01.007)  
