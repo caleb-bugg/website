@@ -17,10 +17,8 @@ weight = 60
 +++
 I currently serve as a Part-time Instructor of Mathematics at Georgia State University. 
 
-I have served as a graduate student instructor for the following courses:
+I have taught the following courses:
 
 
-#### GSI
-* IEOR 115: Industrial and Commercial Database Systems (Fall 2018-20)
-* IEOR 265: Learning & Optimization (Spring 2020, 2021)
-* ENG 120: Engineering Economics (Spring 2019)
+#### PTI
+* Math 1111: College Algebra (spring 2026)
