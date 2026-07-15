@@ -13,4 +13,6 @@ active = true
 **University email:**  
 [cbugg@gsu.edu](mailto:cbugg@gsu.edu)
 
+**ROBE/ROSE email:**  
+[cbugg@breastfeedingrose.org](mailto:cbugg@breastfeedingrose.org)
 </div>
